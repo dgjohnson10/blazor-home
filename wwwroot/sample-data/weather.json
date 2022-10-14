@@ -1,27 +1,32 @@
 ﻿[
   {
-    "date": "2018-05-06",
-    "temperatureC": 1,
-    "summary": "Freezing"
+      "date": "2022-10-15T09:59:27.7071946-05:00",
+      "temperatureC": -7,
+      "temperatureF": 20,
+      "summary": "Chilly"
   },
   {
-    "date": "2018-05-07",
-    "temperatureC": 14,
-    "summary": "Bracing"
+      "date": "2022-10-16T09:59:27.7086402-05:00",
+      "temperatureC": -7,
+      "temperatureF": 20,
+      "summary": "Chilly"
   },
   {
-    "date": "2018-05-08",
-    "temperatureC": -13,
-    "summary": "Freezing"
+      "date": "2022-10-17T09:59:27.7086565-05:00",
+      "temperatureC": 8,
+      "temperatureF": 46,
+      "summary": "Warm"
   },
   {
-    "date": "2018-05-09",
-    "temperatureC": -16,
-    "summary": "Balmy"
+      "date": "2022-10-18T09:59:27.7086605-05:00",
+      "temperatureC": -5,
+      "temperatureF": 24,
+      "summary": "Balmy"
   },
   {
-    "date": "2018-05-10",
-    "temperatureC": -2,
-    "summary": "Chilly"
+      "date": "2022-10-19T09:59:27.7086614-05:00",
+      "temperatureC": 23,
+      "temperatureF": 73,
+      "summary": "Scorching"
   }
 ]
